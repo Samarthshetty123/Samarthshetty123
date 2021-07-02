@@ -20,9 +20,3 @@ Here are some ideas to get you started:
 - I'm also interested in buiseness and finance
 
 
-<p align = "center">
-  <img src = "SAM logo.png" align = "center">
-  <br><br>
-  <img src = "https://github-readme-stats.vercel.app/api?username=Samarthshetty123&count_private=true&theme=algolia&show_icons=true&line_height=20" align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samarthshetty123&count_private=true&theme=algolia&count=6&height=20&langs_count=10&layout=compact" align = "center">
-</p>
