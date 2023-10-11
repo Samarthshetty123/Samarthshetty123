@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm a second year Computer Science Undergraduate
+- I'm a Computer Science graduate
 - I'm interested in Web Development, and App Development
 - I'm also interested in buiseness and finance
 
